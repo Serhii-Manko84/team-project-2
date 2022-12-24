@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/serhii-manko84/team-project-2",
+  "homepage": "https://github.com/serhii-manko84.github.io/team-project-2",
 
   "scripts": {
     "start": "parcel src/*.html",
